@@ -1,4 +1,4 @@
-# LabelMigrator
+# clone-labels
 
 A Python script to migrate or copy labels between GitHub repositories.
 
